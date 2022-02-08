@@ -1,0 +1,15 @@
+C:\Users\johnd\Desktop\Repos2\Test Console App\Test Console App\obj\Debug\net6.0\Test Console App.csproj.AssemblyReference.cache
+C:\Users\johnd\Desktop\Repos2\Test Console App\Test Console App\obj\Debug\net6.0\Test Console App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnd\Desktop\Repos2\Test Console App\Test Console App\obj\Debug\net6.0\Test Console App.AssemblyInfoInputs.cache
+C:\Users\johnd\Desktop\Repos2\Test Console App\Test Console App\obj\Debug\net6.0\Test Console App.AssemblyInfo.cs
+C:\Users\johnd\Desktop\Repos2\Test Console App\Test Console App\obj\Debug\net6.0\Test Console App.csproj.CoreCompileInputs.cache
+C:\Users\johnd\Desktop\Repos2\Test Console App\Test Console App\bin\Debug\net6.0\Test Console App.exe
+C:\Users\johnd\Desktop\Repos2\Test Console App\Test Console App\bin\Debug\net6.0\Test Console App.deps.json
+C:\Users\johnd\Desktop\Repos2\Test Console App\Test Console App\bin\Debug\net6.0\Test Console App.runtimeconfig.json
+C:\Users\johnd\Desktop\Repos2\Test Console App\Test Console App\bin\Debug\net6.0\Test Console App.dll
+C:\Users\johnd\Desktop\Repos2\Test Console App\Test Console App\bin\Debug\net6.0\ref\Test Console App.dll
+C:\Users\johnd\Desktop\Repos2\Test Console App\Test Console App\bin\Debug\net6.0\Test Console App.pdb
+C:\Users\johnd\Desktop\Repos2\Test Console App\Test Console App\obj\Debug\net6.0\Test Console App.dll
+C:\Users\johnd\Desktop\Repos2\Test Console App\Test Console App\obj\Debug\net6.0\ref\Test Console App.dll
+C:\Users\johnd\Desktop\Repos2\Test Console App\Test Console App\obj\Debug\net6.0\Test Console App.pdb
+C:\Users\johnd\Desktop\Repos2\Test Console App\Test Console App\obj\Debug\net6.0\Test Console App.genruntimeconfig.cache
